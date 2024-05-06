@@ -5,8 +5,7 @@
 - 📫 You can reach me chelseasingla123@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I want to go for mathematics in future
-
-- 
+ 
   [![Chelseasingla1's GitHub | Dependencies](https://stats.quine.sh/Chelseasingla1/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Chelseasingla1)
   
 
