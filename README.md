@@ -6,8 +6,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I want to go for mathematics in future
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@chelseasin42559/30-nites-of-code)  
   ![@chelseasin42559 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=chelseasin42559)
   
  
