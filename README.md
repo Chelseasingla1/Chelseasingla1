@@ -5,6 +5,11 @@
 - 📫 You can reach me chelseasingla123@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I want to go for mathematics in future
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@chelseasin42559/30-nites-of-code)  
+  ![@chelseasin42559 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=chelseasin42559)
+  
  
   [![Chelseasingla1's GitHub | Dependencies](https://stats.quine.sh/Chelseasingla1/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Chelseasingla1) [![Chelseasingla1's GitHub | Stats](https://stats.quine.sh/Chelseasingla1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Chelseasingla1)
   [![Chelseasingla1's GitHub | Languages Over Time](https://stats.quine.sh/Chelseasingla1/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Chelseasingla1)
