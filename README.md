@@ -124,6 +124,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chelseasingla1&theme=juicyfresh&no-bg=true" />
+
 ###
 
 <div align="center">
