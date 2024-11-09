@@ -126,7 +126,7 @@
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=Chelseasingla1&theme=juicyfresh&no-bg=true" />
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/Chelseasingla1" alt="watching_count" />
 ###
 
 <div align="center">
