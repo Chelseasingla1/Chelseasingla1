@@ -122,6 +122,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+
+  ![Visitor Count](https://profile-counter.glitch.me/{Chelseasingla1}/count.svg)
 </div>
 
 
