@@ -8,13 +8,6 @@
 
   ![@chelseasin42559 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=chelseasin42559)
   
- 
-  [![Chelseasingla1's GitHub | Dependencies](https://stats.quine.sh/Chelseasingla1/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Chelseasingla1) [![Chelseasingla1's GitHub | Stats](https://stats.quine.sh/Chelseasingla1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Chelseasingla1)
-  [![Chelseasingla1's GitHub | Languages Over Time](https://stats.quine.sh/Chelseasingla1/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Chelseasingla1)
-
-[![An image of @chelseasingla1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chelseasingla1)](https://holopin.io/@chelseasingla1)
-
-[![Chelseasingla1's GitHub | Topics Over Time](https://stats.quira.sh/Chelseasingla1/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Chelseasingla1)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
